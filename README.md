@@ -5,7 +5,7 @@
 <p>
 Initially Project was just a weather webpage with fast glance at weather in any city. With time I decided to create a fully-functional app, where user can save your cities personalize your start display city, search for random it, see 7 days and 24 hours forecast.
 
-Morefather I turned that into the <a href="https://www.freecodecamp.org/news/what-are-progressive-web-apps/">PWA</a> application. So no matter your on the desktop or phone, you can use that app, it's responsive.
+Morefather I turned that into the <a href="https://www.freecodecamp.org/news/what-are-progressive-web-apps/">PWA</a> application. So no matter you're on the desktop or phone, you can use that app, it's responsive.
 
 </p>
 
